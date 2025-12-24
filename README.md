@@ -1,4 +1,3 @@
-# Lab1-Distributed-computing
 # Lab 1 — Remote Procedure Call (RPC) Implementation on AWS EC2
 
 ## Overview
