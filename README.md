@@ -95,7 +95,7 @@ The client sends multiple RPC requests:
 - add(a, b)
 - reverse_string(s)
 - get_time()
-- 
+
 ## Failure Handling Demonstration
 To demonstrate failure handling, the server is intentionally slowed down.
 Start the server with artificial delay:
