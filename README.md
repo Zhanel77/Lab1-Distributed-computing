@@ -47,7 +47,6 @@ Requests are sent in JSON format:
 Responses from the server:
 
 ```json
-Копировать код
 {
   "request_id": "uuid",
   "status": "OK",
